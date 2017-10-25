@@ -1,2 +1,4 @@
 # hello-world
-Hack club project
+
+So I see you're running GNOME...
+You know, I'm actually on KDE myself
